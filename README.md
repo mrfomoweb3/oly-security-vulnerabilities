@@ -98,13 +98,6 @@ node RunAllExploits.js
 4. **Professional Documentation**: Bug bounty ready submission package
 5. **Immediate Risk**: Multiple critical vulnerabilities requiring urgent fixes
 
-## 📞 RESEARCHER CONTACT
-
-- **Submission Type**: Bug Bounty Security Research
-- **Research Date**: October 2024
-- **Execution Environment**: Controlled Testnet Only
-- **Risk Level**: CRITICAL - Immediate Action Required
-
 ---
 
 **🚨 URGENT RECOMMENDATION**: Do not deploy this contract to production. All critical vulnerabilities must be addressed before any mainnet deployment.**
